@@ -1,0 +1,7 @@
+{
+    "frontPanelUrl": "http://localhost:3000/",
+    "apiGatewayUrl": "http://localhost:5500/",
+    "orderServiceUrl": "http://localhost:8001/",
+    "shopServiceUrl": "http://localhost:8002/",
+    "userServiceUrl": "http://localhost:8003/"
+  }
